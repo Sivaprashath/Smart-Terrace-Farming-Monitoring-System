@@ -1,0 +1,16 @@
+# Android
+.gradle/
+build/
+local.properties
+
+# IntelliJ
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# APK
+*.apk
